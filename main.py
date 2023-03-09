@@ -1,5 +1,6 @@
 import random
 
+
 one = random.randint(1,7)
 two = random.randint(1,7)
 craps_sum = one + two
